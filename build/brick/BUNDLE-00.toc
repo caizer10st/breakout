@@ -1,0 +1,1 @@
+([('brick', '/Users/caizer10/workspace/brick_game/dist/brick', 'EXECUTABLE')],)
